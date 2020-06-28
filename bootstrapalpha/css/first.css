@@ -1,0 +1,52 @@
+
+.container-fluid{
+    margin: 0px;
+    padding: 0px;
+}
+body .header{
+    background-color: rgba(39, 31, 32, 0.192);
+    padding: 10px;
+    color: white;
+}
+
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    
+}
+
+.presentacion{
+    background-image: url(/img/imagen1.jpeg) ;
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+    text-align: center;
+}
+
+.pick{
+    text-align: center;
+    padding: 80px;
+}
+
+.pick img{
+    border-radius: 220px;
+}
+
+.nombre h1{
+    padding-top: 20%;
+}
+.detallesnombre{
+    
+}
+.descripcion{
+    padding: 40px;
+
+}
+
