@@ -1,0 +1,40 @@
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    
+}
+
+.presentacion{
+    background-image: url(/img/fondo.jpeg);
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+}
+
+.pick{
+    text-align: center;
+    padding: 80px;
+}
+
+.pick img{
+    border-radius: 220px;
+}
+
+.nombre h1{
+    padding-top: 20%;
+}
+
+.descripcion{
+    padding: 40px;
+}
+
+.descripcion p{
+    font-size: 30px;
+}
+
